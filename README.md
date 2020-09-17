@@ -7,3 +7,4 @@ Patrones de diseños modelados:
 * [Strategy | Estrategia](/2-1-Prog2-Clase-02)
 * [Composite | Compuesto](/2-1-Prog2-Clase-03)
 * [Factory Method | Metodo Fabricar](/2-1-Prog2-Clase-04)
+* [Command | Comando](/2-1-Prog2-Clase-05)
