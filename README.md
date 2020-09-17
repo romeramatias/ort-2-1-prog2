@@ -8,3 +8,4 @@ Patrones de diseños modelados:
 * [Composite | Compuesto](/2-1-Prog2-Clase-03)
 * [Factory Method | Metodo Fabricar](/2-1-Prog2-Clase-04)
 * [Command | Comando](/2-1-Prog2-Clase-05)
+* [Observer | Observador](/2-1-Prog2-Clase-06)
